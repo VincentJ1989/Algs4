@@ -1,4 +1,4 @@
-package graph;
+package graph.part1;
 
 /**
  * 深度优先搜索--单点连通性问题

@@ -1,4 +1,4 @@
-package graph;
+package graph.part1;
 
 import edu.princeton.cs.algs4.Queue;
 import edu.princeton.cs.algs4.Stack;

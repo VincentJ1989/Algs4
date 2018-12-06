@@ -1,4 +1,4 @@
-package graph;
+package graph.part1;
 
 /**
  * G是无环图吗?(假设不存在自环和平行边)--检测环问题

@@ -1,4 +1,4 @@
-package graph;
+package graph.part1;
 
 /**
  * G是二分图吗?--双色问题
