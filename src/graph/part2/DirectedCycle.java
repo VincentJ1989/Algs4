@@ -32,6 +32,7 @@ public class DirectedCycle {
             if (this.hasCycle()) {
                 return;
             } else if (!marked[w]) {
+                edgeTo[w] = v;
                 dfg(G, w);
             } else if (onStack[w]) {
                 cycle = new Stack<>();
