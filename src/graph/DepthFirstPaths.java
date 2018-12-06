@@ -3,7 +3,7 @@ package graph;
 import java.util.Stack;
 
 /**
- * 基于深度优先搜索实现的Path
+ * 基于深度优先搜索实现的Path--单点路径问题
  */
 public class DepthFirstPaths {
     /**起点*/

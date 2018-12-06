@@ -5,7 +5,7 @@ import edu.princeton.cs.algs4.Stack;
 
 /**
  * 使用广度优先搜素查找图中的路径<p>
- * 使用一个队列来保存所有被标记过但起邻接表还未被检查过的顶点
+ * 使用一个队列来保存所有被标记过但起邻接表还未被检查过的顶点--单点最短路径问题
  */
 public class BreadthFirstPaths {
     /**起点*/

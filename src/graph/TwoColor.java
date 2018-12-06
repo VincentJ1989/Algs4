@@ -1,7 +1,7 @@
 package graph;
 
 /**
- * G是二分图吗?(双色问题)
+ * G是二分图吗?--双色问题
  */
 public class TwoColor {
     private boolean[] marked;

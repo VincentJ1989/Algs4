@@ -1,7 +1,7 @@
 package graph;
 
 /**
- * 深度优先搜索
+ * 深度优先搜索--单点连通性问题
  */
 public class DepthFirstSearch {
     private boolean[] marked;

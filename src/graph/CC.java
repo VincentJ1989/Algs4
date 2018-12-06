@@ -7,6 +7,7 @@ package graph;
  * <li>2.union-find是一种动态算法，深度优先搜索则必须要对图进行预处理</li>
  * <li>3.如果只需要判断连通性或者需要完成有大量连通性查询和插入操作混合等类似任务，更倾向于使用union-find；
  * 而深度优先搜索则更适合实现图的抽象数据类型，因为它能更有效地利用已有的数据类型</li>
+ * ---连通性问题
  */
 public class CC {
     private boolean[] marked;
