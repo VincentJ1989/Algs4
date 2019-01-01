@@ -78,6 +78,7 @@ public class RabinKarp {
     // }
 
     private boolean check(String txt, int i) {
+        //对于拉斯维加斯算法，检查模式与txt(i..i-M+1)的匹配
         for (int j = 0; j < M; j++) {
             if (pat.charAt(j) != txt.charAt(i + j)) {
                 return false;
